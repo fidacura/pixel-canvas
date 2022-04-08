@@ -1,1 +1,1 @@
-# Graphmetric - A Pixelmetric Drawing Experience
+# Graphmetric - A Pixelmetric Drawing Experiment
